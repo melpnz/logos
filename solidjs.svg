@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+	<path fill="#76b3e1" d="M100 23.2S66.7-1.3 40.9 4.3L39 5c-3.8 1.3-6.9 3.1-8.8 5.7l-1.3 1.9L19.5 29l16.3 3c6.9 4.4 15.7 6.3 23.9 4.4l28.9 5.7L100 23.2z"/>
+	<linearGradient id="a" x1="14.7201" x2="93.022" y1="98.246" y2="60.1957" gradientTransform="matrix(1 0 0 -1 0 101.433)" gradientUnits="userSpaceOnUse">
+		<stop offset=".1" stop-color="#76b3e1"/>
+		<stop offset=".3" stop-color="#dcf2fd"/>
+		<stop offset="1" stop-color="#76b3e1"/>
+	</linearGradient>
+	<path fill="url(#a)" opacity=".3" d="M100 23.2S66.7-1.3 40.9 4.3L39 5c-3.8 1.3-6.9 3.1-8.8 5.7l-1.3 1.9L19.5 29l16.3 3c6.9 4.4 15.7 6.3 23.9 4.4l28.9 5.7L100 23.2z"/>
+	<path fill="#518ac8" d="m30.2 23.2-2.5.6C17 27 13.8 37 19.5 45.8 25.8 54 39 58.4 49.7 55.3l39-13.2S55.3 17.5 30.2 23.2z"/>
+	<linearGradient id="b" x1="57.7697" x2="44.059" y1="79.7422" y2="34.0818" gradientTransform="matrix(1 0 0 -1 0 101.433)" gradientUnits="userSpaceOnUse">
+		<stop offset="0" stop-color="#76b3e1"/>
+		<stop offset=".5" stop-color="#4377bb"/>
+		<stop offset="1" stop-color="#1f3b77"/>
+	</linearGradient>
+	<path fill="url(#b)" opacity=".3" d="m30.2 23.2-2.5.6C17 27 13.8 37 19.5 45.8 25.8 54 39 58.4 49.7 55.3l39-13.2S55.3 17.5 30.2 23.2z"/>
+	<linearGradient id="c" x1="9.0004" x2="88.1828" y1="59.7954" y2="5.9589" gradientTransform="matrix(1 0 0 -1 0 101.433)" gradientUnits="userSpaceOnUse">
+		<stop offset="0" stop-color="#315aa9"/>
+		<stop offset=".5" stop-color="#518ac8"/>
+		<stop offset="1" stop-color="#315aa9"/>
+	</linearGradient>
+	<path fill="url(#c)" d="M81.8 51.5c-3.5-4.4-8.3-7.6-13.7-9.3-5.4-1.7-11.1-1.7-16.5-.1l-39 12.6L0 76.6l70.4 11.9L83 66c2.5-4.4 1.9-9.5-1.2-14.5z"/>
+	<linearGradient id="d" x1="44.8446" x2="12.8949" y1="53.3828" y2="-63.7875" gradientTransform="matrix(1 0 0 -1 0 101.433)" gradientUnits="userSpaceOnUse">
+		<stop offset="0" stop-color="#4377bb"/>
+		<stop offset=".5" stop-color="#1a336b"/>
+		<stop offset="1" stop-color="#1a336b"/>
+	</linearGradient>
+	<path fill="url(#d)" d="M69.2 73.5c-3.5-4.4-8.3-7.6-13.7-9.3-5.4-1.7-11.1-1.7-16.5-.1L0 76.6s33.3 25.2 59.1 18.9l1.9-.6c10.7-3.2 14.5-13.2 8.2-21.4z"/>
+</svg>

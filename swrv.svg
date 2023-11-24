@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+	<path d="M0 6.3C0 2.8 2.8 0 6.2 0h87.5c3.5 0 6.2 2.8 6.2 6.3v87.5c0 3.5-2.8 6.3-6.2 6.3H6.2C2.8 100 0 97.2 0 93.7V6.3z"/>
+	<radialGradient id="a" cx="-5476.7656" cy="-2705.4209" r="1.0008" gradientTransform="matrix(11.9324 11.9323 -14.5407 14.5406 26063.7773 104738.7734)" gradientUnits="userSpaceOnUse">
+		<stop offset="0" stop-color="#9e9e9e"/>
+		<stop offset="1" stop-color="#e6e6e6"/>
+	</radialGradient>
+	<path fill="url(#a)" d="M0 55v3.3l1.9-1.9c4.7-4.7 12.3-4.7 17 0L34.6 72c5.6 5.6 14.7 5.6 20.3 0s5.6-14.7 0-20.3l-8.5-8.5c-4.7-4.7-4.7-12.3 0-17s12.3-4.7 17 0l19.3 19.3c4.7 4.7 11.9 5.5 17.4 2.3V45c-4.7 3.5-11.4 3.1-15.7-1.2L65 24.6c-5.6-5.6-14.7-5.6-20.3 0s-5.6 14.7 0 20.3l8.5 8.5c4.7 4.7 4.7 12.3 0 17s-12.3 4.7-17 0L20.6 54.7c-5.3-5.3-14.3-6-20.6.3z"/>
+	<radialGradient id="b" cx="-6251.2744" cy="-2587.4216" r="1" gradientTransform="matrix(-12.5638 -12.5637 28.3418 -28.3415 -5150.5801 -151796.3125)" gradientUnits="userSpaceOnUse">
+		<stop offset="0" stop-color="#312d2d"/>
+		<stop offset="1" stop-color="#988e8e"/>
+	</radialGradient>
+	<path fill="url(#b)" d="M0 60.8V64l4.7-4.7c3.1-3.1 8.1-3.1 11.2 0l15.6 15.6c7.2 7.2 19 7.2 26.2 0s7.2-19 0-26.2l-8.5-8.5c-3.1-3.1-3.1-8 0-11s8-3.1 11 0l19.3 19.4c5.5 5.5 13.6 6.8 20.4 3.9v-2.6c-6.1 3.1-13.7 2.1-18.7-3L61.9 27.6c-4-4-10.4-4-14.3 0-4 4-4 10.4 0 14.3l8.5 8.5c6.3 6.3 6.3 16.6 0 22.9s-16.6 6.3-22.9 0L17.6 57.7c-4-4-10.5-4-14.5 0L0 60.8z"/>
+	<linearGradient id="c" x1="100.6702" x2="-.5348" y1="1031.1254" y2="1030.9104" gradientTransform="translate(0 -978.567)" gradientUnits="userSpaceOnUse">
+		<stop offset="0" stop-color="#fff" stop-opacity=".3"/>
+		<stop offset=".497" stop-color="#fff" stop-opacity="0"/>
+		<stop offset="1" stop-color="#fff" stop-opacity=".3"/>
+	</linearGradient>
+	<path fill="url(#c)" d="M0 60.8V64l4.7-4.7c3.1-3.1 8.1-3.1 11.2 0l15.6 15.6c7.2 7.2 19 7.2 26.2 0s7.2-19 0-26.2l-8.5-8.5c-3.1-3.1-3.1-8 0-11s8-3.1 11 0l19.3 19.4c5.5 5.5 13.6 6.8 20.4 3.9v-2.6c-6.1 3.1-13.7 2.1-18.7-3L61.9 27.6c-4-4-10.4-4-14.3 0-4 4-4 10.4 0 14.3l8.5 8.5c6.3 6.3 6.3 16.6 0 22.9s-16.6 6.3-22.9 0L17.6 57.7c-4-4-10.5-4-14.5 0L0 60.8z"/>
+	<radialGradient id="d" cx="-6181.6958" cy="-2588.1936" r="1" gradientTransform="matrix(-15.4048 -15.4047 28.8996 -28.8993 -20369.9922 -169947)" gradientUnits="userSpaceOnUse">
+		<stop offset="0" stop-color="#101010"/>
+		<stop offset="1" stop-color="#3d3d3d"/>
+	</radialGradient>
+	<path fill="url(#d)" d="M0 66.8v3.3l7.8-7.8c1.5-1.5 3.8-1.5 5.3 0L28.7 78c8.8 8.8 23.2 8.8 32 0s8.8-23.2 0-32l-8.5-8.5c-1.4-1.4-1.4-3.8 0-5.2 1.4-1.4 3.8-1.4 5.2 0l19.2 19.2C83 57.8 92.1 59.6 100 57v-2.5c-7.3 2.7-15.8 1.2-21.6-4.7L59.1 30.6c-2.4-2.4-6.2-2.4-8.5 0-2.4 2.4-2.4 6.2 0 8.5l8.5 8.5c7.9 7.9 7.9 20.8 0 28.7s-20.8 7.9-28.7 0L14.7 60.7c-2.4-2.4-6.2-2.4-8.5 0L0 66.8z"/>
+	<linearGradient id="e" x1="100.6039" x2="-.3321" y1="1036.1337" y2="1034.4156" gradientTransform="translate(0 -978.567)" gradientUnits="userSpaceOnUse">
+		<stop offset="0" stop-color="#fff" stop-opacity=".3"/>
+		<stop offset=".497" stop-color="#fff" stop-opacity="0"/>
+		<stop offset="1" stop-color="#fff" stop-opacity=".3"/>
+	</linearGradient>
+	<path fill="url(#e)" d="M0 66.8v3.3l7.8-7.8c1.5-1.5 3.8-1.5 5.3 0L28.7 78c8.8 8.8 23.2 8.8 32 0s8.8-23.2 0-32l-8.5-8.5c-1.4-1.4-1.4-3.8 0-5.2 1.4-1.4 3.8-1.4 5.2 0l19.2 19.2C83 57.8 92.1 59.6 100 57v-2.5c-7.3 2.7-15.8 1.2-21.6-4.7L59.1 30.6c-2.4-2.4-6.2-2.4-8.5 0-2.4 2.4-2.4 6.2 0 8.5l8.5 8.5c7.9 7.9 7.9 20.8 0 28.7s-20.8 7.9-28.7 0L14.7 60.7c-2.4-2.4-6.2-2.4-8.5 0L0 66.8z"/>
+	<radialGradient id="f" cx="-5494.8198" cy="-2666.0364" r="1" gradientTransform="matrix(12.5007 12.5005 -29.3758 29.3755 -9585.2705 147026.8125)" gradientUnits="userSpaceOnUse">
+		<stop offset="0" stop-color="#312d2d"/>
+		<stop offset="1" stop-color="#988e8e"/>
+	</radialGradient>
+	<path fill="url(#f)" d="M0 49.6v2.9c6.3-5.4 15.9-5.1 21.8.9l15.7 15.7c4 4 10.4 4 14.3 0 4-4 4-10.4 0-14.3l-8.5-8.5C37 40 37 29.7 43.3 23.4s16.6-6.3 22.9 0l19.1 19.1c4 4 10.5 4.1 14.6.2v-3.3l-1.4 1.4c-3.2 3.2-8.3 3.2-11.5 0l-19-19c-7.2-7.2-19-7.2-26.2 0s-7.2 19 0 26.2l8.5 8.5c3.1 3.1 3.1 8 0 11-3.1 3.1-8 3.1-11 0L23.5 51.8C17.1 45.4 7.2 44.7 0 49.6z"/>
+	<linearGradient id="g" x1="101.0667" x2="-.4203" y1="1022.306" y2="1023.317" gradientTransform="translate(0 -978.567)" gradientUnits="userSpaceOnUse">
+		<stop offset="0" stop-color="#fff" stop-opacity=".3"/>
+		<stop offset=".497" stop-color="#fff" stop-opacity="0"/>
+		<stop offset="1" stop-color="#fff" stop-opacity=".3"/>
+	</linearGradient>
+	<path fill="url(#g)" d="M0 49.6v2.9c6.3-5.4 15.9-5.1 21.8.9l15.7 15.7c4 4 10.4 4 14.3 0 4-4 4-10.4 0-14.3l-8.5-8.5C37 40 37 29.7 43.3 23.4s16.6-6.3 22.9 0l19.1 19.1c4 4 10.5 4.1 14.6.2v-3.3l-1.4 1.4c-3.2 3.2-8.3 3.2-11.5 0l-19-19c-7.2-7.2-19-7.2-26.2 0s-7.2 19 0 26.2l8.5 8.5c3.1 3.1 3.1 8 0 11-3.1 3.1-8 3.1-11 0L23.5 51.8C17.1 45.4 7.2 44.7 0 49.6z"/>
+	<radialGradient id="h" cx="-5572.4824" cy="-2662.3542" r="1" gradientTransform="matrix(15.7205 15.7203 -32.4732 32.4728 1186.7354 174074.8594)" gradientUnits="userSpaceOnUse">
+		<stop offset="0" stop-color="#101010"/>
+		<stop offset="1" stop-color="#3d3d3d"/>
+	</radialGradient>
+	<path fill="url(#h)" d="M0 44.7v2.6c7.8-4.6 18-3.5 24.8 3.2l15.6 15.6c2.4 2.4 6.2 2.4 8.5 0 2.4-2.4 2.4-6.2 0-8.5l-8.5-8.5c-7.9-7.9-7.9-20.8 0-28.7s20.8-7.9 28.7 0l19.3 19.3c2.3 2.3 6.1 2.3 8.5 0l3.1-3.1v-3.3L95.3 38c-1.4 1.4-3.7 1.4-5.2 0L70.7 18.7c-8.8-8.8-23.2-8.8-32 0s-8.8 23.2 0 32l8.5 8.5c1.4 1.4 1.4 3.8 0 5.2s-3.8 1.4-5.2 0L26.4 48.9C19.2 41.7 8.5 40.3 0 44.7z"/>
+	<linearGradient id="i" x1="101.044" x2="-.224" y1="1018.567" y2="1018.567" gradientTransform="translate(0 -978.567)" gradientUnits="userSpaceOnUse">
+		<stop offset="0" stop-color="#fff" stop-opacity=".3"/>
+		<stop offset=".497" stop-color="#fff" stop-opacity="0"/>
+		<stop offset="1" stop-color="#fff" stop-opacity=".3"/>
+	</linearGradient>
+	<path fill="url(#i)" d="M0 44.7v2.6c7.8-4.6 18-3.5 24.8 3.2l15.6 15.6c2.4 2.4 6.2 2.4 8.5 0 2.4-2.4 2.4-6.2 0-8.5l-8.5-8.5c-7.9-7.9-7.9-20.8 0-28.7s20.8-7.9 28.7 0l19.3 19.3c2.3 2.3 6.1 2.3 8.5 0l3.1-3.1v-3.3L95.3 38c-1.4 1.4-3.7 1.4-5.2 0L70.7 18.7c-8.8-8.8-23.2-8.8-32 0s-8.8 23.2 0 32l8.5 8.5c1.4 1.4 1.4 3.8 0 5.2s-3.8 1.4-5.2 0L26.4 48.9C19.2 41.7 8.5 40.3 0 44.7z"/>
+</svg>

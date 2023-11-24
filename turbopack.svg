@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+	<path d="M77.9 20.4H22.3c-1 0-1.9.8-1.9 1.9v55.6c0 1 .8 1.9 1.9 1.9h55.6c1 0 1.9-.8 1.9-1.9V22.3c0-1-.9-1.9-1.9-1.9zM63.5 61.5c0 1.1-.9 2-2 2H38.7c-1.1 0-2-.9-2-2V38.7c0-1.1.9-2 2-2h22.8c1.1 0 2 .9 2 2v22.8z"/>
+	<linearGradient id="a" x1="84.7237" x2="35.5057" y1="64.3638" y2="15.1468" gradientTransform="matrix(1 0 0 -1 0 101.433)" gradientUnits="userSpaceOnUse">
+		<stop offset="0" stop-color="#0096ff"/>
+		<stop offset="1" stop-color="#ff1e56"/>
+	</linearGradient>
+	<path fill="url(#a)" d="M0 51.1v36.2c0 2.4.7 4.7 1.9 6.6l13-13V51.1H0zM5.9 98l12.9-12.9h28.8V100H12.8c-2.5 0-4.9-.7-6.9-2zm47.6 2h33.8c7.1 0 12.8-5.7 12.8-12.8V12.8C100 5.7 94.3 0 87.2 0H51.1v14.9h29.8c2.3 0 4.3 1.9 4.3 4.3v61.7c0 2.3-1.9 4.3-4.3 4.3H53.5V100z"/>
+</svg>
